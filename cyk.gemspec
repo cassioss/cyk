@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
   spec.version       = Cyk::VERSION
   spec.authors       = ["Cassio dos Santos Sousa"]
   spec.email         = ["cassiosantossousa@gmail.com"]
-  spec.summary       = "CYK Algorithy"
+  spec.summary       = "CYK Algorithm"
   spec.description   = "Cocke-Younger-Kasami Algorithm written in Ruby"
   spec.homepage      = ""
   spec.license       = "MIT"
